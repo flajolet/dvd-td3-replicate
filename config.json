@@ -1,19 +1,13 @@
 {
-  "env_name": "HalfCheetah-v2",
-
+  "env_name": "Humanoid-v2",
   "algo_kwargs": {
     "gamma": 0.99,
     "rho": 0.005
   },
-
-  "train_kwargs": {
-
-  },
-
+  "train_kwargs": {},
   "noise_kwargs": {
     "mean": 0,
     "std": 0.2,
     "clip": 0.5
   }
-
 }
